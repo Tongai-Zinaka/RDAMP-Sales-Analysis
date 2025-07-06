@@ -34,7 +34,7 @@
 1. **Handling Missing Values**:  
    - **Discount**: 8% of records had null discounts → Replaced with 0% (`Table.ReplaceValue(null, 0)`)  
    - **Category**: 2% of products had missing categories → Flagged as "Unknown" for review  
-   - **Region/Country**: 8.7% of records had missing geo-data → Resolved via:  
+   - **Region/Country**: Records had missing geo-data → Resolved via:  
      - Merging with `Store_Locations.xlsx` using Postal Code in Power Query
 
 2. **Anomaly Correction**:  
