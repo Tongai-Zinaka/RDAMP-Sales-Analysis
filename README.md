@@ -1,6 +1,6 @@
 # RDAMP-Sales-Analysis
-**Analyst**: Tongai Zinaka
-**Tools Used**: Power BI (DAX, Power Query), Excel 
+**Analyst**: Tongai Zinaka<br>
+**Tools Used**: Power BI (DAX, Power Query), Excel<br> 
 **Dataset**: Ace Superstore Retail and Store Locations Dataset
 
 # Key Insights
