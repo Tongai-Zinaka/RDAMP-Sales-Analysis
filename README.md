@@ -4,24 +4,24 @@
 **Dataset**: Ace Superstore Retail and Store Locations Dataset
 
 # Key Insights
-## 1. Regional Perfomance Contrast. 
+## 1. Regional Performance Contrast. 
 ![image](https://github.com/user-attachments/assets/2f6903f6-e003-490f-b207-237b26d2a39c)
 - **Top Performer**: East Midlands (£498K revenue, 18 762 quantity sold)
-- **Significant Gap**: North East has highest discounts (16.66%) but the lowest revenue at (£30.5K)
+- **Significant Gap**: North East has the highest discounts (16.66%) but the lowest revenue at (£30.5K)
 - **Possible Action**: Launch targeted promotions in the North East with product bundles.
 
 ## 2. Sales Distribution: Online vs In-Store
-- ![image](https://github.com/user-attachments/assets/8bf05501-5dd6-41c2-876c-77f6ac6de904)
+-![image](https://github.com/user-attachments/assets/8bf05501-5dd6-41c2-876c-77f6ac6de904)
 - **Near-even Split**: Online (51.5%) compared to In-Store (48.5%)
 - **Opportunity**: Push In-Store growth with exclusive in-person offers.
 
 ## 3. Product Optimisation Opportunities
--  ![image](https://github.com/user-attachments/assets/9ea369d6-403c-40da-88a5-064c4c658adb)
+-![image](https://github.com/user-attachments/assets/9ea369d6-403c-40da-88a5-064c4c658adb)
 - **Expand**: Portable Solar Generators ($44K revenue)
-- **Discontinue**: Bottom 5 products (combined revenue is less than $46)
+- **Discontinue**: Bottom 5 products (combined revenue is less than £46)
 
 # Recommendations  
-1. **Regional Strategy**: Boost North East presence with localized promotions.  
+1. **Regional Strategy**: Enhance North East presence through localised promotions.  
 2. **Product Portfolio**: Discontinue low-revenue items; scale high-margin electronics.  
 3. **Channel Mix**: Introduce in-person exclusive bundles to increase the physical share. 
     
@@ -44,4 +44,4 @@
 3. **Data Quality Flags**:  
    - Created `Needs Review` column for:  
      - Products with "Unknown" category  
-   - *Impact*: 412 records flagged for business review 
+   - *Impact*: 198 records flagged for business review 
