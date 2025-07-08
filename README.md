@@ -3,7 +3,6 @@
 **Tools Used**: Power BI (DAX, Power Query), Excel<br> 
 **Dataset**: Ace Superstore Retail and Store Locations Dataset
 ![image](https://github.com/user-attachments/assets/64ae3396-3c89-40da-a181-da6f1a5e521c)
-![image](https://github.com/user-attachments/assets/0c7f5c28-d31b-4db9-a04b-e8c41099e560)
 
 
 ## Key Insights
