@@ -4,6 +4,8 @@
 **Dataset**: Ace Superstore Retail and Store Locations Dataset
 ![image](https://github.com/user-attachments/assets/64ae3396-3c89-40da-a181-da6f1a5e521c)
 
+## Executive Summary  
+This report presents key insights from Ace Superstore's sales data analysis to guide expansion strategy. After comprehensive data cleaning and exploratory analysis we identify:  
 
 ## Key Insights
 ### 1. Regional Performance Contrast. 
@@ -41,9 +43,26 @@
 
 2. **Anomaly Correction**:  
    - Capped discounts >100% at 100%  
-   - Corrected inconsistent region names (e.g., "Yorkshire & the Humber" standardization)  
+   - Corrected inconsistent region names (e.g., "Yorkshire & the Humber" standardisation)  
 
 3. **Data Quality Flags**:  
    - Created `Needs Review` column for:  
      - Products with "Unknown" category  
    - *Impact*: 198 records flagged for business review 
+
+## Data Processing Pipeline  
+```mermaid
+graph LR
+    A[Raw Data] --> B{Data Cleaning}
+    B --> C[Missing Values]
+    B --> D[Anomalies]
+    B --> E[Duplicates]
+    C --> C1[Discounts → 0]
+    C --> C2[Categories → Unknown]
+    C --> C3[Regions → Store Locations Merge]
+    D --> D1[Discount Cap 100%]
+    D --> D2[Remove Negative Quantities]
+    E --> E1[Split Categories and Sub Categories]
+    B --> F[Analysis]
+
+
