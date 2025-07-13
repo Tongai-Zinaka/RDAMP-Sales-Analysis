@@ -3,6 +3,8 @@
 **Tools Used**: Power BI (DAX, Power Query), Excel<br> 
 **Dataset**: Ace Superstore Retail and Store Locations Dataset
 ![image](https://github.com/user-attachments/assets/64ae3396-3c89-40da-a181-da6f1a5e521c)
+<img width="1153" height="669" alt="image" src="https://github.com/user-attachments/assets/2aadd966-3c84-4f4f-87d9-8d8785f9befb" />
+
 
 ## Executive Summary  
 This report presents key insights from Ace Superstore's sales data analysis to guide expansion strategy. After comprehensive data cleaning and exploratory analysis we identify:  
