@@ -2,7 +2,8 @@
 **Analyst**: Tongai Zinaka<br>
 **Tools Used**: Power BI (DAX, Power Query), Excel<br> 
 **Dataset**: Ace Superstore Retail and Store Locations Dataset
-<img width="1376" height="795" alt="image" src="https://github.com/user-attachments/assets/5d3ad0c8-e1d2-49a8-b6c3-496ac85c7f4f" />
+<img width="1381" height="796" alt="image" src="https://github.com/user-attachments/assets/43792281-488d-46fb-882c-953f45f9f645" />
+
 <img width="1153" height="669" alt="image" src="https://github.com/user-attachments/assets/2aadd966-3c84-4f4f-87d9-8d8785f9befb" />
 
 
