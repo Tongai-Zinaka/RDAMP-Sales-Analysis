@@ -12,7 +12,8 @@ This report presents key insights from Ace Superstore's sales data analysis to g
 
 ## Key Insights
 ### 1. Regional Performance Contrast. 
-![Region specific insights ](https://github.com/user-attachments/assets/88e4e6cf-bc18-471a-b945-9e91004311f4)
+<img width="618" height="319" alt="image" src="https://github.com/user-attachments/assets/fe0ccbb9-ad13-4999-8506-39e92f85046a" />
+
 - **Top Performer**: East Midlands (£498K revenue, 18 762 quantity sold)
 - **Significant Gap**: North East has the highest discounts (16.66%) but the lowest revenue at (£30.5K)
 - **Possible Action**: Launch targeted promotions in the North East with product bundles.
